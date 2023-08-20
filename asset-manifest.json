@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lukabartolo/casinotexas.git/static/css/main.29808381.css",
+    "main.js": "/lukabartolo/casinotexas.git/static/js/main.c38bf3cf.js",
+    "index.html": "/lukabartolo/casinotexas.git/index.html",
+    "main.29808381.css.map": "/lukabartolo/casinotexas.git/static/css/main.29808381.css.map",
+    "main.c38bf3cf.js.map": "/lukabartolo/casinotexas.git/static/js/main.c38bf3cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29808381.css",
+    "static/js/main.c38bf3cf.js"
+  ]
+}
